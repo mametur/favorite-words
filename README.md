@@ -89,15 +89,14 @@ Distributed under the MIT License. See [LICENSE](https://github.com/mametur/favo
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/badge/5-Contributors%20-brightgreen
-[contributors-url]: https://github.com/fmkarakus/array-of-numbers/graphs/contributors
+[contributors-url]: https://github.com/mametur/favorite-words/graphs/contributors
 [forks-shield]: https://img.shields.io/badge/-Forks-blue
-[forks-url]: https://github.com/fmkarakus/array-of-numbers/network/members
+[forks-url]: https://github.com/mametur/favorite-words/network/members
 [issues-shield]: https://img.shields.io/badge/-ISSUES-green
-[issues-url]: https://github.com/fmkarakus/array-of-numbers/issues
+[issues-url]: https://github.com/mametur/favorite-words/issues
 [pr-shield]: https://img.shields.io/badge/-Pull%20Requests%20-blue
-[pr-url]: https://github.com/fmkarakus/array-of-numbers/pulls
+[pr-url]: https://github.com/mametur/favorite-words/pulls
 [license-shield]: https://img.shields.io/badge/-LICENSE-brightgreen
-[license-url]: https://github.com/fmkarakus/array-of-numbers/blob/master/LICENSE
+[license-url]: https://github.com/mametur/favorite-words/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+
