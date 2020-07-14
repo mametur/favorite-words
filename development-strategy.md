@@ -51,3 +51,25 @@ This user story has been developed through a branch called 'style'.
 ### javascript
 
 -Nothing has changed
+
+## 2.find a specific word
+
+**As a site visitor, I want to see a my name in the database whether exist or not.**
+
+> assigned to Mamé
+
+### Repo
+
+This user story has been developed through a branch called 'find'.
+
+### HTML
+
+- Nothing has changed
+
+### CSS
+
+- Nothing has changed
+
+### javascript
+
+-Used find method to word
