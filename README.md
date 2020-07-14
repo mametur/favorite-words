@@ -73,14 +73,10 @@ Distributed under the MIT License. See [LICENSE](https://github.com/mametur/favo
 ## Contact
 
 - [Mamé](https://github.com/mametur)
-- [Gelila](https://github.com/ms-np)
-- [Ismail](https://github.com/Eltayeb-Elgaali)
-- [Hazem](https://github.com/murvanessa)
-- [Iryna](https://github.com/miroslavveljanoski)
-
-
-
-Project Link : [favorite-words](https://github.com/mametur/favorite-words)
+- [Nadia Petra](https://github.com/ms-np)
+- [Eltayeb Elgaali](https://github.com/Eltayeb-Elgaali)
+- [Murielle Vanessa Negue Tchoupo](https://github.com/murvanessa)
+- [Miroslav Veljanoski](https://github.com/miroslavveljanoski)
 
 <!-- ACKNOWLEDGEMENTS -->
 
