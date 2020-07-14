@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf8'>
+  <title>Arraying</title>
+
+  <link href="./style.css" rel="stylesheet" />
+
+  <!-- load the shared data -->
+  <script src='./scripts/script-variables.js'></script>
+
+  <!-- load the interaction scripts -->
+  <script src='./scripts/user-actions/add-word.js'></script>
+  <script src='./scripts/user-actions/clear-all.js'></script>
+  <script src='./scripts/user-actions/display.js'></script>
+  <script src='./scripts/user-actions/exists.js'></script>
+  <script src='./scripts/user-actions/remove.js'></script>
+  <script src='./scripts/user-actions/replace.js'></script>
+  <script src='./scripts/user-actions/search.js'></script>
+
+
+  <!-- Leave this here!  It renders the review buttons  -->
+  <script src='./review-buttons/init.js'></script>
+
+</head>
+
+<body>
+
+  <main>
+    <button onclick='displayHandler()'>view all words</button> <br>
+    <button onclick='addWordHandler()'>add a word</button> <br>
+    <br>
+    <button onclick='existsHandler()'>find a specific word</button> <br>
+    <button onclick='removeHandler()'>remove a specific word</button> <br>
+    <button onclick='replaceHandler()'>replace a specific word</button> <br>
+    <button onclick='searchHandler()'>search within the words</button> <br>
+    <br>
+    <button onclick='clearAllHandler()'>clear all words</button> <br>
+  </main>
+
+</body>
+
+</html>
