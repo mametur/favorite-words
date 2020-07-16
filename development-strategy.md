@@ -8,7 +8,7 @@ A basic web page aim to learn JavaScript, testing and developed collaboratively 
 
 ## Wireframe
 
-![wireframe]()
+![wireframe](./img/wireframe.png)
 
 ## 0. Set-Up
 
@@ -26,3 +26,28 @@ _A User can see my initial repository and live demo_
 - Prepare a project board
 - Push the changes to GitHub
 - Turn on GitHub Pages
+
+## 1. Style Main Page
+
+**As a site visitor, I want to see a fancy website.**
+
+> assigned to Mamé
+
+### Repo
+
+This user story has been developed through a branch called 'style'.
+
+### HTML
+
+- add header and section semantic tags
+- add bootstrap links and font family links
+- use bootstrap grid
+
+### CSS
+
+- add background img
+- style buttons
+
+### javascript
+
+-Nothing has changed
