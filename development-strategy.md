@@ -73,3 +73,25 @@ This user story has been developed through a branch called 'find'.
 ### javascript
 
 -Used find method to word
+
+## 3. Replace a Specific Word
+
+**As a site visitor, I want to have the possibility to replace a specific word by clicking on _Replace a Specific Word_ button**
+
+> assigned to Miroslav
+
+### Repo
+
+This user story has been developed on a branch called 'replace'.
+
+### HTML
+
+- Nothing has changed
+
+### CSS
+
+- Nothing has changed
+
+### JavaScript
+
+- Complete _replaceHandler_ function
