@@ -73,3 +73,26 @@ This user story has been developed through a branch called 'find'.
 ### javascript
 
 -Used find method to word
+
+## 3. Remove a specific word
+
+**As a site visitor, I want to be able to remove a specific word that i entered.**
+
+> assigned to Eltayeb
+
+### Repo
+
+This user story has been developed through a branch called 'remove'.
+
+### HTML
+
+No html markup has been added on this user story.
+
+### CSS
+
+No styling has been added.
+
+### javascript
+
+- Write the removeHandler function logic.
+- Verify if the removeHandler work correctly.
