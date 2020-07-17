@@ -73,3 +73,25 @@ This user story has been developed through a branch called 'find'.
 ### javascript
 
 -Used find method to word
+
+## 3.Search a specific word
+
+**As a site visitor, I want to search for a specific word.**
+
+> assigned to Murielle
+
+### Repo
+
+This user story has been developed through a branch called 'Search'.
+
+### HTML
+
+- Nothing has changed
+
+### CSS
+
+- Nothing has changed
+
+### javascript
+
+- complete search handler
