@@ -74,7 +74,29 @@ This user story has been developed through a branch called 'find'.
 
 -Used find method to word
 
-## 3.Search a specific word
+## 3. Add word
+
+**As a site visitor, I want to add a word by clicking on _Add_ button**
+
+> assigned to Miroslav
+
+### Repo
+
+This user story has been developed on a branch called 'add'.
+
+### HTML
+
+- Nothing has changed
+
+### CSS
+
+- Nothing has changed
+
+### JavaScript
+
+- Complete _addWordHandler_ function
+
+## 7.Search a specific word
 
 **As a site visitor, I want to search for a specific word.**
 
@@ -95,3 +117,4 @@ This user story has been developed through a branch called 'Search'.
 ### javascript
 
 - complete search handler
+
