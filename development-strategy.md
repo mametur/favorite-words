@@ -1,3 +1,4 @@
+
 # Development Strategy
 
 > `Testing project week 2`
@@ -119,3 +120,24 @@ No styling has been added.
 - Write the removeHandler function logic.
 - Verify if the removeHandler work correctly.
 
+## 5. Replace a Specific Word
+
+**As a site visitor, I want to have the possibility to replace a specific word by clicking on _Replace a Specific Word_ button**
+
+> assigned to Miroslav
+
+### Repo
+
+This user story has been developed on a branch called 'replace'.
+
+### HTML
+
+- Nothing has changed
+
+### CSS
+
+- Nothing has changed
+
+### JavaScript
+
+- Complete _replaceHandler_ function
