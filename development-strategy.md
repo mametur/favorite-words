@@ -1,3 +1,4 @@
+
 # Development Strategy
 
 > `Testing project week 2`
@@ -74,7 +75,52 @@ This user story has been developed through a branch called 'find'.
 
 -Used find method to word
 
-## 3. Replace a Specific Word
+## 3. Add word
+
+**As a site visitor, I want to add a word by clicking on _Add_ button**
+
+> assigned to Miroslav
+
+### Repo
+
+This user story has been developed on a branch called 'add'.
+
+### HTML
+
+- Nothing has changed
+
+### CSS
+
+- Nothing has changed
+
+### JavaScript
+
+- Complete _addWordHandler_ function
+
+## 4. Remove a specific word
+
+**As a site visitor, I want to be able to remove a specific word that i entered.**
+
+> assigned to Eltayeb
+
+### Repo
+
+This user story has been developed through a branch called 'remove'.
+
+### HTML
+
+No html markup has been added on this user story.
+
+### CSS
+
+No styling has been added.
+
+### javascript
+
+- Write the removeHandler function logic.
+- Verify if the removeHandler work correctly.
+
+## 5. Replace a Specific Word
 
 **As a site visitor, I want to have the possibility to replace a specific word by clicking on _Replace a Specific Word_ button**
 
