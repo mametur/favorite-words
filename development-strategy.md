@@ -74,7 +74,29 @@ This user story has been developed through a branch called 'find'.
 
 -Used find method to word
 
-## 3. Remove a specific word
+## 3. Add word
+
+**As a site visitor, I want to add a word by clicking on _Add_ button**
+
+> assigned to Miroslav
+
+### Repo
+
+This user story has been developed on a branch called 'add'.
+
+### HTML
+
+- Nothing has changed
+
+### CSS
+
+- Nothing has changed
+
+### JavaScript
+
+- Complete _addWordHandler_ function
+
+## 4. Remove a specific word
 
 **As a site visitor, I want to be able to remove a specific word that i entered.**
 
@@ -96,3 +118,4 @@ No styling has been added.
 
 - Write the removeHandler function logic.
 - Verify if the removeHandler work correctly.
+
