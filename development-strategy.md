@@ -73,3 +73,25 @@ This user story has been developed through a branch called 'find'.
 ### javascript
 
 -Used find method to word
+
+## 3. Add word
+
+**As a site visitor, I want to add a word by clicking on _Add_ button**
+
+> assigned to Miroslav
+
+### Repo
+
+This user story has been developed on a branch called 'add'.
+
+### HTML
+
+- Nothing has changed
+
+### CSS
+
+- Nothing has changed
+
+### JavaScript
+
+- Complete _addWordHandler_ function
