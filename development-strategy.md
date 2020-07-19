@@ -1,4 +1,3 @@
-
 # Development Strategy
 
 > `Testing project week 2`
@@ -141,3 +140,25 @@ This user story has been developed on a branch called 'replace'.
 ### JavaScript
 
 - Complete _replaceHandler_ function
+
+## 7.Search a specific word
+
+**As a site visitor, I want to search for a specific word.**
+
+> assigned to Murielle
+
+### Repo
+
+This user story has been developed through a branch called 'Search'.
+
+### HTML
+
+- Nothing has changed
+
+### CSS
+
+- Nothing has changed
+
+### javascript
+
+- complete search handler
