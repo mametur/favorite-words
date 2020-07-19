@@ -96,6 +96,51 @@ This user story has been developed on a branch called 'add'.
 
 - Complete _addWordHandler_ function
 
+## 4. Remove a specific word
+
+**As a site visitor, I want to be able to remove a specific word that i entered.**
+
+> assigned to Eltayeb
+
+### Repo
+
+This user story has been developed through a branch called 'remove'.
+
+### HTML
+
+No html markup has been added on this user story.
+
+### CSS
+
+No styling has been added.
+
+### javascript
+
+- Write the removeHandler function logic.
+- Verify if the removeHandler work correctly.
+
+## 5. Replace a Specific Word
+
+**As a site visitor, I want to have the possibility to replace a specific word by clicking on _Replace a Specific Word_ button**
+
+> assigned to Miroslav
+
+### Repo
+
+This user story has been developed on a branch called 'replace'.
+
+### HTML
+
+- Nothing has changed
+
+### CSS
+
+- Nothing has changed
+
+### JavaScript
+
+- Complete _replaceHandler_ function
+
 ## 7.Search a specific word
 
 **As a site visitor, I want to search for a specific word.**
@@ -117,4 +162,3 @@ This user story has been developed through a branch called 'Search'.
 ### javascript
 
 - complete search handler
-
