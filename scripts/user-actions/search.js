@@ -13,5 +13,5 @@ const searchHandler = () => {
   };
   const foundWords = words.filter(includesSubstring);
 
-  displayHandler(`"${userInput}":,\n ${foundWord}`,[]);
+  displayHandler(`search results for "${userInput}": ${foundWord}`);
 };
